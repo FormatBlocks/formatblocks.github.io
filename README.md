@@ -1,6 +1,7 @@
 # FormatBlocks
 
 ![Docs Picture](docs/2.png)
+
 Welcome to FormatBlocks! FormatBlocks is a scratch mod that is like TurboWarp, but better. 
 
 ## Community Guidelines
