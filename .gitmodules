@@ -1,0 +1,3 @@
+[submodule "server"]
+    path = src
+    url = https://github.com/FormatBlocks/server.git
